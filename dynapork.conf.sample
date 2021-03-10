@@ -1,0 +1,8 @@
+{
+    "secretapikey": "YOUR_SECRET_KEY",
+    "apikey": "YOUR_API_KEY",
+    "sites":
+        [
+        "www.example.site",
+        ],
+}
